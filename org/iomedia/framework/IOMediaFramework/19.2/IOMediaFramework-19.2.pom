@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.iomedia.framework</groupId>
   <artifactId>IOMediaFramework</artifactId>
-  <version>19.1</version>
+  <version>19.2</version>
   <packaging>jar</packaging>
   <name>IOMediaFramework</name>
   <url>http://maven.apache.org</url>
