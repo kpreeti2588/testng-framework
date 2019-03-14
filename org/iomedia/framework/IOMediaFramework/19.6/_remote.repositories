@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 12 16:38:23 IST 2019
+IOMediaFramework-19.6-sources.jar>=
+IOMediaFramework-19.6.jar>=
+IOMediaFramework-19.6.pom>=
